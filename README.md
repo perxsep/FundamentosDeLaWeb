@@ -7,4 +7,4 @@
 //Cuando un cliente desea acceder a una página web (como Google o Facebook), se descarga una copia de la página web desde el servidor a la máquina del cliente para que se muestre en el navegador web del usuario
 En otras palabras, el cliente realiza una solicitud y el servidor responde con una respuesta//
 
-a
+aaaaaa
